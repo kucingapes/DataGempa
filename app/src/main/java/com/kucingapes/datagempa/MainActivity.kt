@@ -73,7 +73,7 @@ class MainActivity : AppCompatActivity() {
         val menu = toolbar.menu.findItem(R.id.github_menu)
         menu.setOnMenuItemClickListener {
             val intent = Intent(Intent.ACTION_VIEW).apply {
-                data = Uri.parse("https://github.com")
+                data = Uri.parse("https://github.com/kucingapes/DataGempa")
             }
             startActivity(intent)
             true
