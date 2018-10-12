@@ -62,6 +62,7 @@ class DataGempa {
 ### Download
 Aplikasi bisa didownload di link berikut
 <br>https://play.google.com/store/apps/details?id=com.kucingapes.datagempa
+
 ---
 Developed by Muhammad Utsman
 <br>kucingapes@outlook.com
