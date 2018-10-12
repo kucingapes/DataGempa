@@ -60,7 +60,8 @@ class DataGempa {
 [LICENSE](/LICENSE)
 
 ### Download
-Aplikasi bisa didownload di link berikut
+Source code aplikasi di [sini](/app)
+<br>Aplikasi bisa didownload di link berikut
 <br>https://play.google.com/store/apps/details?id=com.kucingapes.datagempa
 
 ---
