@@ -1,9 +1,6 @@
 # Data Gempa Terkini
 Contoh aplikasi penampang database xml. Data diambil dari http://data.bmkg.go.id
 
-Aplikasi bisa didownload di link berikut
-<br>https://play.google.com/store/apps/details?id=com.kucingapes.datagempa
-
 ![](image/gempa-app.png)
 
 ### Library
@@ -62,6 +59,9 @@ class DataGempa {
 ### Lisensi
 [LICENSE](/LICENSE)
 
+### Download
+Aplikasi bisa didownload di link berikut
+<br>https://play.google.com/store/apps/details?id=com.kucingapes.datagempa
 ---
 Developed by Muhammad Utsman
 <br>kucingapes@outlook.com
