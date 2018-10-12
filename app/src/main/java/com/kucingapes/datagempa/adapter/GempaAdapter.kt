@@ -70,7 +70,6 @@ class GempaAdapter(var dataList: ArrayList<DataGempa.Gempa>,
         /*p0.itemView.dirasakan.text = dataGempa.dirasakan*/
 
         p0.setLocation(dataGempa)
-
         p0.itemView.setOnClickListener {
             itemClick.OnItemClickRecycler(dataGempa)
         }

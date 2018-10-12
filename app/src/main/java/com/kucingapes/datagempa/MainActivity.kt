@@ -17,7 +17,6 @@ import android.support.v7.widget.LinearLayoutManager
 import android.util.Log
 import android.view.View
 import android.widget.TextView
-import android.widget.Toast
 import com.kucingapes.datagempa.adapter.GempaAdapter
 import com.kucingapes.datagempa.api.ApiInstance
 import com.kucingapes.datagempa.model.DataGempa
